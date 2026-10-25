@@ -21,9 +21,9 @@ np.random.seed(39)
 
 
 # Putanja do podataka (CSV)
-# putanja = '/Users/4c/Desktop/GHQ/data/loto7_4708_k85.csv'
-# putanja = '/Users/4c/Desktop/GHQ/data/loto7_4708_k85_loto_2976.csv'
-putanja = '/Users/4c/Desktop/GHQ/data/loto7_4708_k85_loto_plus_1732.csv'
+# putanja = '/data/loto7_4708_k85.csv'
+# putanja = '/data/loto7_4708_k85_loto_2976.csv'
+putanja = '/data/loto7_4708_k85_loto_plus_1732.csv'
 
 
 # File loading
@@ -151,19 +151,19 @@ print()
 """
 Mod: Istinski 5-Kubitno Pozicioni QLTH Model
 Analizirano redova iz CSV: 4708
-Predložena kombinacija: [11, 13, 21, 22, 23, 24, 27]
+Predložena kombinacija: [11, x, 21, y, 23, z, 27]
 
 
 
 Mod: Istinski 5-Kubitno Pozicioni QLTH Model
 Analizirano redova iz CSV: 2976
-Predložena kombinacija: [2, 4, 7, 8, 18, 19, 25]
+Predložena kombinacija: [2, x, 7, y, 18, z, 25]
 
 
 
 Mod: Istinski 5-Kubitno Pozicioni QLTH Model
 Analizirano redova iz CSV: 1732
-Predložena kombinacija: [5, 10, 11, 12, 24, 27, 30]
+Predložena kombinacija: [5, x, 11, y, 24, z, 30]
 """
 
 
